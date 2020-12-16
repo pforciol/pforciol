@@ -24,31 +24,22 @@
   <a href="https://medium.com/https://pierreforcioli.medium.com/" target="_blank">
     <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
   </a>  
-</div>  
-  
-
-<br/>  
-
+</div>
 
 ## My Skills  
 <div align="center">  
   <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg" alt="Bash" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+  <img style="margin: 10px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-</div>  
+  <img style="margin: 10px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="HTML5" height="50" />  
+  <img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/0d/0d35ef6c8d4fdaf0590228404dc6448b.png" alt="CSS3" height="50" />  
+</div>
 
-<br/>  
-
-
-## Recent Blog Posts  
+## My Last Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=pforciol&&style=flat-square" align="right" />
