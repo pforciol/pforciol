@@ -6,8 +6,7 @@
 
 <p align="center">
   <img width="460" height="200" src="https://github-readme-stats.vercel.app/api?username=pforciol&show_icons=true&bg_color=0C1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true&hide=prs,issues">
-</p>  
-
+</p>
 
 <div align="center">
   <a href="https://github.com/pforciol" target="_blank">
@@ -33,7 +32,7 @@
 
 ## My Skills  
 <div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+  <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg" alt="Bash" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
