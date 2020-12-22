@@ -6,7 +6,7 @@
 
 <p align="center">
   <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=pforciol&show_icons=true&bg_color=0C1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true&hide=prs,issues">
-  <img width="400" height="130"
+  <img width="252" height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=pforciol&show_icons=true&bg_color=0C1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&layout=compact&langs_count=8">
 </p>
 
