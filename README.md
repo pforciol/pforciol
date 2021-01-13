@@ -41,6 +41,7 @@
 
 ## My Last Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Python3: Mutable, Immutable… everything is object!](https://medium.com/@pierreforcioli/python3-mutable-immutable-everything-is-object-2043e290d881?source=rss-8c9e27e804e4------2)
 - [The differences between Static and Dynamic Libraries](https://medium.com/@pierreforcioli/the-differences-between-static-and-dynamic-libraries-e25a92407fff?source=rss-8c9e27e804e4------2)
 - [Jim Hague, the 1986’s IOCCC winner](https://medium.com/@pierreforcioli/jim-hague-the-1986s-ioccc-winner-1a8237ccef2c?source=rss-8c9e27e804e4------2)
 - [The C Static Libraries](https://medium.com/@pierreforcioli/the-c-static-libraries-5be2e59f3d6d?source=rss-8c9e27e804e4------2)
