@@ -43,6 +43,11 @@
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" />
 </div>
 
+## Latest Medium Story
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
+
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=pforciol&&style=flat-square" align="right" />
 </div>
