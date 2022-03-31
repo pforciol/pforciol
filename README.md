@@ -44,8 +44,8 @@
 </div>
 
 ## Latest Medium Story
-<!-- MEDIUM-STORY-LIST:START -->
-<!-- MEDIUM-STORY-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <div align="right">
