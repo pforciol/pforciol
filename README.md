@@ -43,7 +43,7 @@
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" />
 </div>
 
-## Latest Medium Story
+## **<div align="center">Latest Medium Stories</div>**  
 <!-- BLOG-POST-LIST:START -->
 - [The Internet of Things &lpar;IoT&rpar;](https://pierreforcioli.medium.com/the-internet-of-things-iot-c51c79d5e000?source=rss-8c9e27e804e4------2)
 - [Python3: Mutable, Immutable… everything is object!](https://pierreforcioli.medium.com/python3-mutable-immutable-everything-is-object-2043e290d881?source=rss-8c9e27e804e4------2)
